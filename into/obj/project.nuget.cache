@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMNj2BN64Wi8e20ftTLFZQxvCP19o9FFCXBV7c2X90rHoVFbFTyDkCjyL0pRcNrQthwOXmdaqaRKYaPqBPNzSw==",
+  "success": false,
+  "projectFilePath": "D:\\srimal\\git-test\\002\\into\\into\\into.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Components.WebAssembly.DevServer' from remote source 'https://nuget.org/FindPackagesById()?id='Microsoft.AspNetCore.Components.WebAssembly.DevServer'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly.DevServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'Microsoft.AspNetCore.Components.WebAssembly' from remote source 'https://nuget.org/FindPackagesById()?id='Microsoft.AspNetCore.Components.WebAssembly'&semVerLevel=2.0.0'.",
+      "libraryId": "Microsoft.AspNetCore.Components.WebAssembly"
+    }
+  ]
+}
